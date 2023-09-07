@@ -10,14 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9d1514134bc4fbd41bb739b1b9a49231, type: 3}
-  m_Name: MarbelTile
+  m_Name: PisoGrieta
   m_EditorClassIdentifier: 
-  m_DefaultSprite: {fileID: 21300664, guid: 39215ed5ac24aac4dba931a105816145, type: 3}
+  m_DefaultSprite: {fileID: 21300196, guid: 39215ed5ac24aac4dba931a105816145, type: 3}
   m_DefaultColliderType: 1
   m_TilingRules:
   - m_Neighbors: 0100000001000000010000000100000001000000010000000100000001000000
     m_Sprites:
-    - {fileID: 21300662, guid: 39215ed5ac24aac4dba931a105816145, type: 3}
+    - {fileID: 21300190, guid: 39215ed5ac24aac4dba931a105816145, type: 3}
     m_AnimationSpeed: 1
     m_PerlinScale: 0.5
     m_RuleTransform: 0
