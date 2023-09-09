@@ -50,3 +50,6 @@ TagManager:
   - name: Player
     uniqueID: 3460386491
     locked: 0
+  - name: Contorno
+    uniqueID: 163013243
+    locked: 0
